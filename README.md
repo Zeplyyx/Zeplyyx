@@ -1,5 +1,5 @@
 <h1 align="center">zeplyx</h1>
-<p align="center">"editor"</p>
+<p align="center">editor</p>
 
 <a href="https://github.com/zeplyyx">
   <p align="center">
